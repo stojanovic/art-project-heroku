@@ -1,0 +1,31 @@
+{
+  "name": "art-project-heroku",
+  "version": "1.0.0",
+  "description": "Simple API for random art with metadata.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "iojs": "2.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stojanovic/art-project-heroku"
+  },
+  "keywords": [
+    "random",
+    "art",
+    "api",
+    "heroku"
+  ],
+  "author": "Slobodan Stojanovic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stojanovic/art-project-heroku/issues"
+  },
+  "homepage": "https://github.com/stojanovic/art-project-heroku",
+  "dependencies": {
+    "artproject-scraper": "^1.0.0"
+  }
+}
