@@ -25,3 +25,9 @@ Status: 200 OK
 }
 
 ```
+
+## Local usage
+
+1. Clone this repository
+2. Run `npm install` command
+3. Request `GET http://localhost:3001` to get the random art
